@@ -1,0 +1,9 @@
+f:\users\sleepy\documents\visual studio 2013\Projects\CalcPotato\CalcPotato\bin\Debug\CalcPotato.exe.config
+f:\users\sleepy\documents\visual studio 2013\Projects\CalcPotato\CalcPotato\bin\Debug\CalcPotato.exe
+f:\users\sleepy\documents\visual studio 2013\Projects\CalcPotato\CalcPotato\bin\Debug\CalcPotato.pdb
+f:\users\sleepy\documents\visual studio 2013\Projects\CalcPotato\CalcPotato\obj\Debug\CalcPotato.csprojResolveAssemblyReference.cache
+f:\users\sleepy\documents\visual studio 2013\Projects\CalcPotato\CalcPotato\obj\Debug\CalcPotato.FormCalcPotato.resources
+f:\users\sleepy\documents\visual studio 2013\Projects\CalcPotato\CalcPotato\obj\Debug\CalcPotato.Properties.Resources.resources
+f:\users\sleepy\documents\visual studio 2013\Projects\CalcPotato\CalcPotato\obj\Debug\CalcPotato.csproj.GenerateResource.Cache
+f:\users\sleepy\documents\visual studio 2013\Projects\CalcPotato\CalcPotato\obj\Debug\CalcPotato.exe
+f:\users\sleepy\documents\visual studio 2013\Projects\CalcPotato\CalcPotato\obj\Debug\CalcPotato.pdb
